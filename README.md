@@ -1,3 +1,17 @@
+
+## Techs
+
+[x] Styled-Components
+[x] React-icons
+[x] Fetch
+[x] Routes
+[x] TypeScript
+
+## Pages Responsivas.
+
+  - Page Login com base na tela de login do github, sem verificação, somento o front, com onclick no butto que leva ao perfil inicial.
+  - Page Profile para Buscar respositório, no input da barra de pesquisa colocar o nome do github que aparecerar todos os repositórios público.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
